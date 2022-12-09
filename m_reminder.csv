@@ -1,0 +1,15 @@
+﻿country_code,name,mileage_km,duration_month,active_status,create_by,create_date,update_by
+TH,Engine Oil,"10,000 - 12,000",6,1,1,2022-09-22,1
+TH,Engine Oil,"5,000 - 8,000",3,1,1,2022-09-22,1
+TH,Air Filter,30000,18,1,1,2022-09-22,1
+TH,Cabin Air Filter,20000,12,1,1,2022-09-22,1
+TH,Automatic Fluid,"40,000 - 60,000",36,1,1,2022-09-22,1
+TH,Wiper Blade,20000,12,1,1,2022-09-22,1
+TH,Diesel Fuel Filter,40000,24,1,1,2022-09-22,1
+TH,Gasoline Fuel Filter,80000,48,1,1,2022-09-22,1
+TH,Brake Fluid,"40,000 - 60,000",36,1,1,2022-09-22,1
+TH,Radiator Coolant (LLC),60000,36,1,1,2022-09-22,1
+TH,Spark Plug,"10,000 - 20,000 (Nickel)",12,1,1,2022-09-22,1
+TH,Spark Plug,"100,000 (Iridium)",60,1,1,2022-09-22,1
+TH,Battery,-,,1,1,2022-09-22,1
+TH,Tyre,-,,1,1,2022-09-22,1
